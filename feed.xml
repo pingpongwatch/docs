@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://support.pingpong.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://support.pingpong.one/" rel="alternate" type="text/html" /><updated>2021-06-26T07:09:53+00:00</updated><id>https://support.pingpong.one/feed.xml</id><title type="html">PingPong Support</title><entry><title type="html">Create with Slack</title><link href="https://support.pingpong.one/incidents/create-with-slack/" rel="alternate" type="text/html" title="Create with Slack" /><published>2021-06-09T00:00:00+00:00</published><updated>2021-06-09T00:00:00+00:00</updated><id>https://support.pingpong.one/incidents/create-with-slack</id><content type="html" xml:base="https://support.pingpong.one/incidents/create-with-slack/">&lt;p&gt;Manage your PingPong status page conveniently from Slack. Work together with your team, post incidents and schedule maintenance without ever leaving Slack.&lt;/p&gt;
+
+&lt;h2 id=&quot;install-the-app&quot;&gt;Install the app&lt;/h2&gt;
+
+&lt;p&gt;To add the app to your Slack workspace, visit &lt;a href=&quot;https://slack.com/apps/A023U8DP4QZ-pingpong-manager&quot;&gt;PingPong Manager&lt;/a&gt; in Slack app store.&lt;/p&gt;
+
+&lt;p&gt;After install, each member will need to authenticate against their PingPong account. Follow any of the steps below and you will be prompted to authenticate by the app.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-post-incidents&quot;&gt;How to post incidents&lt;/h2&gt;
+
+&lt;p&gt;You can easily post incidents in Slack. In any Slack channel, just type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/incident create&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;A popup form will show. Fill out the form to post the incident.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-schedule-maintenance&quot;&gt;How to schedule maintenance&lt;/h2&gt;
+
+&lt;p&gt;Easily schedule maintenance in Slack. To get started type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/maintenance create&lt;/code&gt; in any channel.&lt;/p&gt;
+
+&lt;p&gt;A popup form will show. Once filled with information you can schedule the maintenance.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-list-incidents&quot;&gt;How to list incidents&lt;/h2&gt;
+
+&lt;p&gt;You can get a list of live incidents for your team. This list is only visible to you in Slack. Here, you can easily update and resolve live incidents.&lt;/p&gt;
+
+&lt;p&gt;In any Slack channel, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/incident list&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-list-scheduled-maintenance&quot;&gt;How to list scheduled maintenance&lt;/h2&gt;
+
+&lt;p&gt;You can get a list of upcoming maintenance for your team. This list is only visible to you in Slack. From here, you can easily start and end upcoming maintenance.&lt;/p&gt;
+
+&lt;p&gt;In any Slack channel, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/maintenance list&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><category term="incidents" /><summary type="html">Manage your PingPong status page conveniently from Slack. Work together with your team, post incidents and schedule maintenance without ever leaving Slack.</summary></entry><entry><title type="html">Slack notifications</title><link href="https://support.pingpong.one/notifications/slack/" rel="alternate" type="text/html" title="Slack notifications" /><published>2021-02-23T00:00:00+00:00</published><updated>2021-02-23T00:00:00+00:00</updated><id>https://support.pingpong.one/notifications/slack</id><content type="html" xml:base="https://support.pingpong.one/notifications/slack/">&lt;p&gt;Get notifications to your Slack channel for free.&lt;/p&gt;
+
+&lt;h2 id=&quot;team-notifications&quot;&gt;Team notifications&lt;/h2&gt;
+
+&lt;p&gt;If you have a PingPong account, follow the steps below to start receiving notifications to your Slack channel.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sign in to your &lt;a href=&quot;https://my.pingpong.one/account/signin/&quot;&gt;PingPong account&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Visit Integrations -&amp;gt; Add integration -&amp;gt; Slack, or &lt;a href=&quot;https://my.pingpong.one/subscribers/slack/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click the “Add to Slack” button and follow the instructions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now you will start receiving updates to the channel you selected. Teams receive monitoring notifications, in addition to incidents.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;subscribe-to-a-status-page&quot;&gt;Subscribe to a status page&lt;/h2&gt;
+
+&lt;p&gt;If you want to receive notifications from a company status page, follow these steps.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note that not all status pages have this option available.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the status page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find the “Get updates” button in the top section and click it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the popup, click “Slack”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click the “Add to Slack” button and follow the instructions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now you will start receiving updates to the channel you selected.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="notifications" /><summary type="html">Get notifications to your Slack channel for free.</summary></entry><entry><title type="html">Use your custom domain</title><link href="https://support.pingpong.one/status-page/custom-domain/" rel="alternate" type="text/html" title="Use your custom domain" /><published>2021-01-25T00:00:00+00:00</published><updated>2021-01-25T00:00:00+00:00</updated><id>https://support.pingpong.one/status-page/custom-domain</id><content type="html" xml:base="https://support.pingpong.one/status-page/custom-domain/">&lt;p&gt;By default, your status page is hosted on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://you.pingpong.host&lt;/code&gt;. If you wish to customize it further, you can use a domain like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://status.you.com&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://yourstatus.com&lt;/code&gt;. Here you can learn how to set this up for your account.&lt;/p&gt;
+
+&lt;p&gt;Before we start, please ensure that you have access to modify DNS settings of the domain you wish to connect with your account.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Custom domain is available on Pro and Premium plans.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;setup-a-subdomain&quot;&gt;Setup a subdomain&lt;/h2&gt;
+
+&lt;p&gt;In this example, we will connect our status page to be served from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;status.example.com&lt;/code&gt;. As you follow the steps below, replace this example with your actual subdomain.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to your &lt;a href=&quot;https://my.pingpong.one/statuspage/settings/&quot;&gt;status page settings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Under the section “Use your own domain”, input &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;status.example.com&lt;/code&gt; and press “Update”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the DNS management page of your domain provider.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Here, create a CNAME record that points &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;status.example.com&lt;/code&gt; to &lt;strong&gt;pingpong.host&lt;/strong&gt;.
+Here is how to add a CNAME record in &lt;a href=&quot;https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain&quot;&gt;Namecheap&lt;/a&gt;, &lt;a href=&quot;https://help.clickfunnels.com/hc/en-us/articles/360005906094-Cloudflare-CNAME-Record&quot;&gt;Cloudflare&lt;/a&gt; and &lt;a href=&quot;https://www.godaddy.com/help/add-a-cname-record-19236&quot;&gt;GoDaddy&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;status.example.com   3600 IN CNAME  pingpong.host.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wait for up to 24 hours for the changes to propagate fully. Your status page will then be available on your new subdomain.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;setup-a-domain&quot;&gt;Setup a domain&lt;/h2&gt;
+
+&lt;p&gt;In this example, we will connect our status page to be served from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;examplestatus.com&lt;/code&gt;. As you follow the steps below, replace this example with your actual domain.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to your &lt;a href=&quot;https://my.pingpong.one/statuspage/settings/&quot;&gt;status page settings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Under the section “Use your own domain”, input &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;examplestatus.com&lt;/code&gt; and press “Update”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the DNS management page of your domain provider.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Here, create a CNAME record that points &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;examplestatus.com&lt;/code&gt; to &lt;strong&gt;pingpong.host&lt;/strong&gt;.
+Here is how to add a CNAME record in &lt;a href=&quot;https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain&quot;&gt;Namecheap&lt;/a&gt;, &lt;a href=&quot;https://help.clickfunnels.com/hc/en-us/articles/360005906094-Cloudflare-CNAME-Record&quot;&gt;Cloudflare&lt;/a&gt; and &lt;a href=&quot;https://www.godaddy.com/help/add-a-cname-record-19236&quot;&gt;GoDaddy&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;examplestatus.com   3600 IN CNAME  pingpong.host.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wait for up to 24 hours for the changes to propagate fully. Your status page will then be available on your new domain.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ssl&quot;&gt;SSL&lt;/h2&gt;
+
+&lt;p&gt;The SSL-certificate for your custom domain is managed by PingPong, no setup required for you.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-with-cloudflare&quot;&gt;Using with Cloudflare&lt;/h2&gt;
+
+&lt;p&gt;When using Cloudflare with your domain, make sure that the domain you with to use with your status page is not proxied through Cloudflare. You can do this as shown in the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cloudflare-dns-records.png&quot; alt=&quot;Cloudflare DNS only record&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The DNS record for your status page should be set to &lt;strong&gt;DNS only&lt;/strong&gt;. The other settings remain unchanged.&lt;/p&gt;
+
+&lt;h2 id=&quot;high-availability&quot;&gt;High availability&lt;/h2&gt;
+
+&lt;p&gt;In order to achieve high availability for your status page, when using your custom domain, there are a few things that can be done. Because if your main domain provider has DNS issues, your status page could be unavailable as a result.&lt;/p&gt;
+
+&lt;p&gt;How to improve the availability of your status page:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use a separate domain for your status page, for example &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mycompanystatus.com&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use a separate domain registrar for your new domain.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="status-page" /><summary type="html">By default, your status page is hosted on https://you.pingpong.host. If you wish to customize it further, you can use a domain like https://status.you.com or https://yourstatus.com. Here you can learn how to set this up for your account.</summary></entry><entry><title type="html">Payment</title><link href="https://support.pingpong.one/billing/payment/" rel="alternate" type="text/html" title="Payment" /><published>2021-01-25T00:00:00+00:00</published><updated>2021-01-25T00:00:00+00:00</updated><id>https://support.pingpong.one/billing/payment</id><content type="html" xml:base="https://support.pingpong.one/billing/payment/">&lt;p&gt;You can pay securely by credit or debit cards. We support Visa, Mastercard and American Express.&lt;/p&gt;
+
+&lt;p&gt;All your billing data is handled and stored safely by &lt;a href=&quot;https://stripe.com/&quot;&gt;Stripe&lt;/a&gt; payment provider. No billing data is stored with PingPong.&lt;/p&gt;
+
+&lt;p&gt;Premium can be paid by invoice on an annual plan. &lt;a href=&quot;https://www.pingpong.watch/contact/?subject=Setup%20yearly%20invoice&quot;&gt;Contact us&lt;/a&gt; to set this up for your account.&lt;/p&gt;
+
+&lt;p&gt;Pro plan is offered to open-source projects, nonprofits and schools/universities free of charge. Create a Pro account and &lt;a href=&quot;https://www.pingpong.watch/contact/?subject=Open-source%20setup&quot;&gt;contact us&lt;/a&gt; to set this up.&lt;/p&gt;</content><author><name></name></author><category term="billing" /><summary type="html">You can pay securely by credit or debit cards. We support Visa, Mastercard and American Express.</summary></entry></feed>
